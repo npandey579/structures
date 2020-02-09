@@ -1,0 +1,14 @@
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DSTest.deps.json
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DSTest.runtimeconfig.json
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DSTest.runtimeconfig.dev.json
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DSTest.dll
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DSTest.pdb
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DataStructures.dll
+E:\source\api\webapi_core_2020\DSTest\bin\Debug\netcoreapp2.1\DataStructures.pdb
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.csprojAssemblyReference.cache
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.csproj.CoreCompileInputs.cache
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.AssemblyInfoInputs.cache
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.AssemblyInfo.cs
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.csproj.CopyComplete
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.dll
+E:\source\api\webapi_core_2020\DSTest\obj\Debug\netcoreapp2.1\DSTest.pdb

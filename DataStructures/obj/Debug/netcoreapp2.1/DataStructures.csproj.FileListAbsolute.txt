@@ -1,0 +1,9 @@
+E:\source\api\webapi_core_2020\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.deps.json
+E:\source\api\webapi_core_2020\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.dll
+E:\source\api\webapi_core_2020\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.pdb
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.csprojAssemblyReference.cache
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.csproj.CoreCompileInputs.cache
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.AssemblyInfoInputs.cache
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.AssemblyInfo.cs
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.dll
+E:\source\api\webapi_core_2020\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.pdb
